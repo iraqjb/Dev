@@ -1,0 +1,8 @@
+Origin: iraqjb Repo
+Label: iraqjb Repo
+Suite: stable
+Version: 1.0
+Codename: iraqjb Repo
+Architectures: iphoneos-arm
+Components: main
+Description: iraqjb Repo
